@@ -18,6 +18,10 @@ namespace Activity_9
             InitializeComponent();
         }
 
+        //Enrique Sanchezmurillo
+        //CST-150 
+        //Activity 9
+        //07 AUG 2022
         private void StartButton_Click(object sender, EventArgs e)
         {
             //Displays Sum
